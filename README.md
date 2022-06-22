@@ -5,7 +5,7 @@ UI Schematic
 https://ovenapp.io/view/jxGierLSJ0ZzjKdWAtoXprA4waPTloLm/
 
 + Team leader - HIBAR97
- ----------
+ -----------
 + Full stack
   + HIBAR97
 
